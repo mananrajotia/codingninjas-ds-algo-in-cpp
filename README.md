@@ -1,4 +1,4 @@
 # codingninjas-ds-algo-in-cpp
 
-All of these programs have been written by me for Inception: Data Structures & Algorithms in C++.
+My solutions for Inception: Data Structures & Algorithms in C++ by Coding Ninjas.
 
